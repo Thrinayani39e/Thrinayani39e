@@ -1,26 +1,50 @@
-<img align="right" width="370" src="https://github.com/Thrinayani39e/Thrinayani39e/assets/106374349/8c0c0c6c-9d8f-4e6f-8c8f-7e8f8e8f8e8f" alt="Full-stack + ML + Fintech" />
+<h1 style="background: linear-gradient(90deg, #ff99cc, #ff66b3, #ff3399); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Hi, I'm Thrinayani Yedhoti 👋💖
+</h1>
 
-# Hi, I'm Thrinayani Yedhoti 👋
+**MS CS @ University of Washington (exp. Jun 2027)** • Full-Stack Engineer • 2× IEEE Published
 
-**MS Computer Science @ University of Washington (exp. Jun 2027)**  
-Full-Stack Engineer • Published IEEE Researcher • Fintech & Security Enthusiast  
+<p style="background:#fff0f8; padding:14px; border-radius:12px; border-left:6px solid #ff66b3;">
+🔍 Applying to <b>2026 Summer SWE Internships</b> (NYC preferred) – <b>no visa sponsorship required</b><br>
+💼 1.5+ yrs production @ Schneider Electric • Shipped RBAC, cybersecurity portals & sustainability tools<br>
+🌸 First-time contributor to <b>microsoft/TypeScript</b> (#62737)
+</p>
 
-🔭 Currently applying to **2026 Summer Software Engineering internships** (NYC preferred – **no visa sponsorship required**)  
-💼 1.5+ years production experience @ **Schneider Electric** – shipped RBAC systems, cybersecurity portals, and sustainability analytics  
-🚀 Targeting high-impact roles  
+### ✨ Featured Projects & Papers
+| Project | Description | Links |
+|--------|------------|-------|
+| RBAC Security Portal (Schneider) | Production access control + vuln dashboards | Internal (SonarQube + Coverity) |
+| Network Anomaly Detection | Real-time threat detection using SNNs | [Code](https://github.com/Thrinayani39e/NetworkAnomaliesSNN) |
+| Attention-Based SNN Fashion Labeling [IEEE] | Efficient pattern recognition | [Paper](https://ieeexplore.ieee.org/document/10717307) |
+| CNN Age Estimation [IEEE] | High-accuracy facial analysis | [Paper](https://ieeexplore.ieee.org/document/10725131) |
+| Personal Portfolio | Pink portfolio site | [Live](https://thrinayani-yedhoti.netlify.app/) |
 
-### 🔥 Featured Projects & Publications
-| Project | Description | Tech Stack | Links |
-|-------|-----------|------------|-------|
-| **RBAC Security Portal** (Schneider Electric) | Production-grade access control + vulnerability dashboards | Angular • ASP.NET • C# • SQL | Internal (passed SonarQube + Coverity) |
-| **Network Anomaly Detection with SNNs** | Real-time threat detection using spiking neural networks | Python • PyTorch • Data Pipelines | [Code](https://github.com/Thrinayani39e/NetworkAnomaliesSNN) |
-| **Attention-Based SNN for Fashion Labeling** [IEEE] | Efficient pattern recognition with attention mechanisms | PyTorch • TensorFlow | [Paper](https://ieeexplore.ieee.org/document/10717307) |
-| **CNN Age Estimation from Facial Images** [IEEE] | High-accuracy computer vision model on diverse datasets | TensorFlow • OpenCV | [Paper](https://ieeexplore.ieee.org/document/10725131) |
+### 💗 Tech Stack (with icons!)
 
-### 🛠 Tech Stack (production & research ready)
 ```text
-Languages      → TypeScript • JavaScript • C# • Python • Java • C++ • SQL
-Frameworks     → Angular • Node.js • FastAPI • ASP.NET • WPF • React (learning)
-ML / Data      → PyTorch • TensorFlow • scikit-learn • Pandas • SQLAlchemy
-Cloud & Tools  → Azure DevOps • Git(Version control) • CI/CD • Jira • Postman • Docker • SonarQube
-Databases      → MySQL • SQLite
+Languages
+├─ 🇹🇸 TypeScript      ├─ 🟨 JavaScript     ├─ 🔷 C#
+├─ 🐍 Python          ├─ ☕ Java           ├─ ➕ C++
+└─ 🗃️  SQL
+
+Frameworks & Libraries
+├─ 🅰️  Angular        ├─ ⚛️  React (learning) ├─ 🚀 Node.js
+├─ ⚡ FastAPI         ├─ 🌐 ASP.NET        ├─ 🖼️  WPF
+├─ 🔥 PyTorch         ├─ 🧠 TensorFlow     └─ 📊 Pandas / scikit-learn
+
+Tools & DevOps
+├─ ☁️  Azure DevOps   ├─ 🐙 Git / GitHub   ├─ 🛠️  CI/CD
+├─ 📋 Jira            ├─ 🧪 Postman        ├─ 🐳 Docker
+└─ 🔍 SonarQube
+
+Databases
+├─ 🐬 MySQL           ├─ 🗄️  SQLite         └─ 🧩 SQLAlchemy ORM
+📊 GitHub Stats (pink theme!)
+https://github-readme-stats.vercel.app/api?username=Thrinayani39e&theme=pinkun&hide_border=true&bg_color=fff0f8&title_color=ff3399&text_color=333
+https://github-readme-streak-stats.herokuapp.com/?user=Thrinayani39e&theme=pinkun&hide_border=true&background=fff0f8&stroke=ff66b3&ring=ff3399&fire=ff3399&currStreakLabel=ff3399
+💌 Connect with me
+Gmail
+LinkedIn
+Portfolio
+https://komarev.com/ghpvc/?username=Thrinayani39e&label=Profile+views&color=ff66b3&style=flat-square
+Open to 2026 internships • Available May–Aug 2026
