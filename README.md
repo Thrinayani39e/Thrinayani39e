@@ -1,66 +1,85 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b7452c-308d-4768-a9df-8c8e574a6e7a.gif" alt="pixel girl coding"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF66B3&center=true&vCenter=true&width=850&height=90&lines=Hi+there%2C+I'm+Thrinayani;MS+CS+%40+University+of+Washington;IEEE+Published+Fintech+Enthusiast;Full-Stack+Engineer;AI/ML+research+scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF66B3&center=true&vCenter=true&width=850&height=90&lines=Hi+there%2C+I'm+Thrinayani+%F0%9F%91%8B%F0%9F%92%95;MS+CS+%40+University+of+Washington;IEEE+Published+%E2%9C%A8+Fintech+Enthusiast;Full-Stack+Engineer+%E2%9D%A4%EF%B8%8F;AI%2FML+Research+Scholar" alt="Typing SVG" />
 </h1>
 
-<div align="center" style="background:#ffeef8;padding:18px;border-radius:20px;border:3px solid #ff99cc;max-width:820px;margin:20px auto;font-size:15.5px;color:#333;">
-  <b>Actively applying to 2026 Summer Tech Internships</b><br>
-  1.5+ yrs Full-Stack Development @ Schneider Electric • Angular • C# • .NET • FastAPI • SQL<br>
+<div align="center" style="background:#ffeef8;padding:20px;border-radius:20px;border:4px solid #ff99cc;max-width:840px;margin:25px auto;font-size:16px;">
+  <b>Actively applying to 2026 Summer Software Engineering Internships</b><br>
+  1.5+ yrs production @ Schneider Electric • Angular • C# • .NET • SQL • WPF<br>
   6+ months in AI/ML Research<br>
-  2× IEEE publications in Neural Networks and Deep Learning.
+  2× IEEE published in Neural Networks and Deep Learning
 </div>
 
-<h3 align="left">Featured Projects & Research</h3>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;">
+<h3 align="left">Featured Research Projects</h3>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;">
   <a href="https://github.com/Thrinayani39e/NetworkAnomaliesSNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=NetworkAnomaliesSNN&theme=pastel&hide_border=true&bg_color=fff0f8&title_color=ff66b3&text_color=ff66b3&icon_color=ff99cc" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=NetworkAnomaliesSNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
   </a>
-  <a href="https://ieeexplore.ieee.org/document/10717307">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=Thrinayani39e&theme=pastel&hide_border=true&bg_color=fff0f8&title_color=ff66b3&text_color=ff66b3&custom_title=Attention-Based+SNN+Fashion+Labeling+%F0%9F%8E%80+%5BIEEE%5D" />
+  <a href="https://github.com/Thrinayani39e/AgeDetectionCNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=AgeDetectionCNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
   </a>
-  <a href="https://ieeexplore.ieee.org/document/10725131">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=Thrinayani39e&theme=pastel&hide_border=true&bg_color=fff0f8&title_color=ff66b3&text_color=ff66b3&custom_title=CNN+Age+Estimation+%F0%9F%94%8D+%5BIEEE%5D" />
-  </a>
-  <a href="https://thrinayani-yedhoti.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=Thrinayani39e&theme=pastel&hide_border=true&bg_color=fff0f8&title_color=ff66b3&text_color=ff66b3&custom_title=%F0%9F%8C%B8+Personal+Portfolio+Website" />
+  <a href="https://github.com/Thrinayani39e/FashionItemsSNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=FashionItemsSNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
   </a>
 </div>
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack & Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"/>
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#"/>
+  
+  <!-- Frameworks & Runtimes -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" title=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" title="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI"/>
+  
+  <!-- AI/ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow"/>
+  
+  <!-- Databases & Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" title="Azure DevOps"/>
+  
+  <!-- DevOps & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" title="Jira"/>
+  
+  <!-- Testing -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg" width="48" height="48" alt="Karma" title="Karma"/>
 </p>
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thrinayani39e&show_icons=true&theme=pastel&hide_border=true&bg_color=ffeef8&title_color=ff66b3&text_color=ff66b3&icon_color=ff99cc&include_all_commits=true&count_private=true" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrinayani39e&theme=pastel&hide_border=true&background=ffeef8&stroke=ff99cc&ring=ff66b3&fire=ff99cc&currStreakLabel=ff66b3" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thrinayani39e&show_icons=true&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC&include_all_commits=true&count_private=true" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrinayani39e&theme=radical&hide_border=true&ring=FF66B3&fire=FF99CC&currStreakLabel=FF66B3" height="195"/>
 </div>
 <div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrinayani39e&layout=compact&theme=pastel&hide_border=true&bg_color=ffeef8&title_color=ff66b3&text_color=ff66b3" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrinayani39e&layout=compact&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF" height="180"/>
 </div>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="mailto:thri9e@uw.edu"><img src="https://img.shields.io/badge/thri9e@uw.edu-FF66B3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thrinayani-yedhoti-a65044210/"><img src="https://img.shields.io/badge/LinkedIn-FF99CC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://thrinayani-yedhoti.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FFB3D9?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="mailto:thri9e@uw.edu">
+    <img src="https://img.shields.io/badge/thri9e@uw.edu-FF66B3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thrinayani-yedhoti-a65044210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://thrinayani-yedhoti.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FFB3D9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
-<div align="center" style="margin-top:25px;">
+<div align="center" style="margin-top:30px;">
   <img src="https://komarev.com/ghpvc/?username=Thrinayani39e&label=Profile+views&color=ff99cc&style=flat-square"/>
 </div>
 
-<h3 align="center" style="margin-top:25px;">Open to 2026 internships • Available June 1–Sept 30 2026</h3>
+<h3 align="center" style="margin-top:30px;">Open to 2026 Summer SWE Internships • Available June–Sept</h3>
