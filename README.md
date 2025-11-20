@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg" width="48" height="48" alt="Karma" title="Karma"/>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats(Public)</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thrinayani39e&show_icons=true&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC&include_all_commits=true&count_private=true" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrinayani39e&theme=radical&hide_border=true&ring=FF66B3&fire=FF99CC&currStreakLabel=FF66B3" height="195"/>
