@@ -1,7 +1,7 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b7452c-308d-4768-a9df-8c8e574a6e7a.gif" alt="pixel girl coding"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF66B3&center=true&vCenter=true&width=850&height=90&lines=Hi+there%2C+I'm+Thrinayani+%F0%9F%91%8B%F0%9F%92%95;MS+CS+%40+University+of+Washington;IEEE+Published+%E2%9C%A8+Fintech+Enthusiast;Full-Stack+Engineer+%E2%9D%A4%EF%B8%8F;AI%2FML+Research+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF66B3&center=true&vCenter=true&width=850&height=90&lines=Hi+there%2C+I'm+Thrinayani+%F0%9F%91%8B;MS+CS+%40+University+of+Washington;IEEE+Published+Fintech+Enthusiast;Full-Stack+Engineer;AI%2FML+Research+Scholar" alt="Typing SVG" />
 </h1>
 
 <div align="center" style="background:#ffeef8;padding:20px;border-radius:20px;border:4px solid #ff99cc;max-width:840px;margin:25px auto;font-size:16px;">
