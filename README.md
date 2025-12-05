@@ -82,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=Thrinayani39e&label=Profile+views&color=ff99cc&style=flat-square"/>
 </div>
 
-<h3 align="center" style="margin-top:30px;">Open to 2026 Summer SWE Internships • Available June–Sept</h3>
+<h3 align="center" style="margin-top:30px;">Open to 2026 Summer SWE Internships • Available June–Oct</h3>
