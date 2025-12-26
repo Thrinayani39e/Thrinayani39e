@@ -14,8 +14,6 @@
   <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
     <h4><a href="https://github.com/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave" style="color:#FF66B3;text-decoration:none;">Fast Marching Method: Ride the Wave</a></h4>
     <p>Optimal Seamlines with Fast Marching Method for Images with Large Parallax (CSS587 Course Project at UW)</p>
-    <p><img src="https://img.shields.io/github/stars/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave?style=social" alt="Stars"/>
-    <img src="https://img.shields.io/github/forks/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave?style=social" alt="Forks"/></p>
   </div>
 
   <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
