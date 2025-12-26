@@ -10,19 +10,29 @@
 </div>
 <h3 align="left">Featured Research Projects</h3>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;">
-    <a href="https://github.com/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave">
-    <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api/pin/?username=Thrinayani39e&repo=Fast_Marching_Method_Ride_the_Wave&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
-  </a>
-  <a href="https://github.com/Thrinayani39e/NetworkAnomaliesSNN">
-    <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api/pin/?username=Thrinayani39e&repo=NetworkAnomaliesSNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
-  </a>
-  <a href="https://github.com/Thrinayani39e/AgeDetectionCNN">
-    <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api/pin/?username=Thrinayani39e&repo=AgeDetectionCNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
-  </a>
-  <a href="https://github.com/Thrinayani39e/FashionItemsSNN">
-    <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api/pin/?username=Thrinayani39e&repo=FashionItemsSNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
-  </a>
- 
+
+  <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
+    <h4><a href="https://github.com/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave" style="color:#FF66B3;text-decoration:none;">Fast Marching Method: Ride the Wave</a></h4>
+    <p>Optimal Seamlines with Fast Marching Method for Images with Large Parallax (CSS587 Course Project at UW)</p>
+    <p><img src="https://img.shields.io/github/stars/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave?style=social" alt="Stars"/>
+    <img src="https://img.shields.io/github/forks/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave?style=social" alt="Forks"/></p>
+  </div>
+
+  <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
+    <h4><a href="https://github.com/Thrinayani39e/NetworkAnomaliesSNN" style="color:#FF66B3;text-decoration:none;">Network Anomalies Detection with SNN</a></h4>
+    <p>Spiking Neural Networks for Network Anomaly Detection</p>
+  </div>
+
+  <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
+    <h4><a href="https://github.com/Thrinayani39e/AgeDetectionCNN" style="color:#FF66B3;text-decoration:none;">Age Detection with CNN</a></h4>
+    <p>Convolutional Neural Network for Age Estimation</p>
+  </div>
+
+  <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
+    <h4><a href="https://github.com/Thrinayani39e/FashionItemsSNN" style="color:#FF66B3;text-decoration:none;">Fashion Items Classification with SNN</a></h4>
+    <p>Spiking Neural Networks for Fashion Item Recognition</p>
+  </div>
+
 </div>
 <h3 align="left">Tech Stack & Tools</h3>
 <p align="left">
@@ -56,14 +66,9 @@
   <!-- Testing -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg" width="48" height="48" alt="Karma" title="Karma"/>
 </p>
-<h3 align="center">GitHub Stats(Public)</h3>
+<h3 align="center">Contribution Streak</h3>
 <div align="center">
-  <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api?username=Thrinayani39e&show_icons=true&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC&include_all_commits=true&count_private=true" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrinayani39e&theme=radical&hide_border=true&ring=FF66B3&fire=FF99CC&currStreakLabel=FF66B3" height="195"/>
-</div>
-</div>
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api/top-langs/?username=Thrinayani39e&layout=compact&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF" height="180"/>
 </div>
 <h3 align="left">Connect with me</h3>
 <p align="left">
