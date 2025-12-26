@@ -14,7 +14,7 @@
 <h3 align="left">Featured Research Projects</h3>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;">
     <a href="https://github.com/Thrinayani39e/Fast_Marching_Method_Ride_the_Wave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=NetworkAnomaliesSNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=Fast_Marching_Method_Ride_the_Wave&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
   </a>
   <a href="https://github.com/Thrinayani39e/NetworkAnomaliesSNN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thrinayani39e&repo=NetworkAnomaliesSNN&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC" height="125"/>
