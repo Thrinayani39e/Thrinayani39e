@@ -59,6 +59,8 @@
 <h3 align="center">GitHub Stats(Public)</h3>
 <div align="center">
   <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api?username=Thrinayani39e&show_icons=true&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF&icon_color=FF99CC&include_all_commits=true&count_private=true" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrinayani39e&theme=radical&hide_border=true&ring=FF66B3&fire=FF99CC&currStreakLabel=FF66B3" height="195"/>
+</div>
 </div>
 <div align="center" style="margin-top:20px;">
   <img src="https://github-readme-stats-bk71gkx3z-thrinayani-yedhotis-projects.vercel.app/api/top-langs/?username=Thrinayani39e&layout=compact&theme=radical&hide_border=true&title_color=FF66B3&text_color=FFFFFF" height="180"/>
