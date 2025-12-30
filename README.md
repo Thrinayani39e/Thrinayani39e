@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF66B3&center=true&vCenter=true&width=850&height=90&lines=Hi+there%2C+I'm+Thrinayani+%F0%9F%91%8B;MS+CS+%40+University+of+Washington;IEEE+Published+Researcher;Full-Stack+Engineer;AI%2FML+Research+Scholar" alt="Typing SVG" />
 </h1>
 <div align="center" style="background:#ffeef8;padding:20px;border-radius:20px;border:4px solid #ff99cc;max-width:840px;margin:25px auto;font-size:16px;">
-  <b>Actively applying to 2026 Summer Software Engineering Internships</b><br>
+  <b>Actively seeking 2026 Summer Software Engineering Internships</b><br>
   1.5+ yrs production @ Schneider Electric • Angular • C# • .NET • SQL • WPF<br>
   6+ months in AI/ML Research<br>
   2× IEEE published in Neural Networks and Deep Learning
