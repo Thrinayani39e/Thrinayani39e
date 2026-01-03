@@ -8,7 +8,7 @@
   6+ months in AI/ML Research<br>
   2× IEEE published in Neural Networks and Deep Learning
 </div>
-<h3 align="left">Featured Research Projects</h3>
+<h3 align="left">Research Projects</h3>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;">
 
   <div style="border:2px solid #FF66B3;border-radius:15px;padding:15px;background:#1e1e2f;color:#FFFFFF;text-align:center;">
