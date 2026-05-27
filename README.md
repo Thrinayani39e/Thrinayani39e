@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF66B3&center=true&vCenter=true&width=850&height=90&lines=Hi+there%2C+I'm+Thrinayani+%F0%9F%91%8B;MS+CS+%40+University+of+Washington;IEEE+Published+Researcher;Full-Stack+Engineer;AI%2FML+Research+Scholar" alt="Typing SVG" />
 </h1>
 <div align="center" style="background:#ffeef8;padding:20px;border-radius:20px;border:4px solid #ff99cc;max-width:840px;margin:25px auto;font-size:16px;">
-  <b>Actively seeking 2026 Fall Tech Internships/Co-Op in Greater Seattle Area</b><br>
+  <b>Actively seeking 2026 Tech Internships/Co-Op in Greater Seattle Area</b><br>
   1.5+ yrs production @ Schneider Electric • Angular • C# • .NET • SQL • WPF<br>
   6+ months in AI/ML Research<br>
   2× IEEE published in Neural Networks and Deep Learning
@@ -83,4 +83,4 @@
 <div align="center" style="margin-top:30px;">
   <img src="https://komarev.com/ghpvc/?username=Thrinayani39e&label=Profile+views&color=ff99cc&style=flat-square"/>
 </div>
-<h3 align="center" style="margin-top:30px;">Open to 2026 Summer SWE Internships • Available June–Oct</h3>
+<h3 align="center" style="margin-top:30px;">Open to 2026 Tech Internships and 2027 New Grad Roles • Available June–Oct</h3>
