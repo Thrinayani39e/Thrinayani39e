@@ -4,7 +4,7 @@
 </h1>
 <div align="center" style="background:#ffeef8;padding:20px;border-radius:20px;border:4px solid #ff99cc;max-width:840px;margin:25px auto;font-size:16px;">
   <b>Actively seeking 2026 Tech Internships/Co-Op in Greater Seattle Area</b><br>
-  Currently : Summer 2026 MLH X Meta Production Engineering Fellow (Part-time)
+  <b>Currently : <\b> Summer 2026 MLH X Meta Production Engineering Fellow (Part-time)<br>
   1.5+ yrs production @ Schneider Electric • Angular • C# • .NET • SQL • WPF<br>
   6+ months in AI/ML Research<br>
   2× IEEE published in Neural Networks and Deep Learning
